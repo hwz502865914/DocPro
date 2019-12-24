@@ -21,7 +21,8 @@ App网络检测: https://github.com/jgilfelt/chuck
 小经验:  
 Android资源命名建议： https://github.com/FanChael/DocPro/blob/master/Share/android_res_rename.md  
 AndroidQ新特性: https://developer.android.google.cn/about/versions/10/migration?hl=zh-cn  
-AndroidQ适配指南1: https://www.jianshu.com/p/d79c2ee86b2a  
+AndroidQ适应指南1：https：//www.jianshu.com/p/d79c2ee86b2a
+通用加密方式：https://www.cnblogs.com/whoislcj/p/5470095.html?tdsourcetag=s_pctim_aiomsg
 
 <table border="1" cellspacing="10">
   <tr>
